@@ -1,4 +1,4 @@
-💸 return App - Sistema de Reembolso para Empresas
+💸 render App - Sistema de Reembolso para Empresas
 
 Um projeto desenvolvido para automatizar e simplificar a gestão de reembolsos corporativos, permitindo que funcionários registrem despesas e acompanhem suas solicitações. O sistema ajuda a empresa a organizar os gastos, garantindo transparência e controle financeiro.
 
@@ -17,4 +17,4 @@ Cálculo e atualização automática do valor total das despesas.
 - Resumo financeiro: Apresenta o total acumulado em reembolsos para análise rápida.
 - Validação inteligente: Formata os valores conforme a moeda brasileira e evita erros de inserção
 
-![Captura de tela_15-10-2024_173711_127 0 0 1](https://github.com/user-attachments/assets/056a45f1-4dd3-472f-9a2d-af5ab2b7f2c5)
+![Captura de tela_6-11-2024_125534_127 0 0 1](https://github.com/user-attachments/assets/42517b0c-81bf-49cf-88ba-28930fe215c0)
