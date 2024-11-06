@@ -25,7 +25,7 @@ body {
   width: 100%;
   height: 100vh;
 
-  background-color: #e4ece9;
+  background-color: #8da5be;
 
   display: flex;
   flex-direction: column;
@@ -35,6 +35,7 @@ body {
 }
 
 .logo {
+  max-width: 100px;
   margin: 3rem 0 2rem;
 }
 
@@ -46,7 +47,7 @@ main section {
 }
 
 form {
-  background-color: #f9fbfa;
+  background-color: #f8f7f8;
   border-radius: 1rem;
   padding: 2.5rem;
   max-width: 462px;
@@ -78,7 +79,7 @@ fieldset legend {
 }
 
 fieldset:focus-within legend {
-  color: #1f8459;
+  color: #446a7c;
   font-weight: 700;
 }
 
@@ -110,7 +111,7 @@ select:invalid {
 
 input:focus,
 select:focus {
-  border: 1.5px solid #1f8459;
+  border: 1.5px solid #446a7c;
 }
 
 .inputs-row {
@@ -135,7 +136,7 @@ form button {
   border: none;
   font-size: 0.87rem;
   color: #ffffff;
-  background-color: #1f8459;
+  background-color: #446a7c;
   font-weight: 700;
   padding: 1rem 1.25rem;
   cursor: pointer;
@@ -144,7 +145,7 @@ form button {
 }
 
 button:hover {
-  background-color: #2cb178;
+  background-color: #7b93b4;
 }
 
 form button:last-child {
